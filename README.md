@@ -21,6 +21,12 @@ https://www.youtube.com/watch?v=_2LLXnUdUIc&t=5s
 https://www.youtube.com/watch?v=Qj1FK8n7WgY
 https://www.youtube.com/watch?v=C1rQQ_YpgcI
 
+## UI এর ইউটিউব রিসোর্স লিংক:
+1. https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw
+2. https://www.youtube.com/c/DesignCourse/featured
+3. https://www.youtube.com/channel/UCZJkZy008cQjqkJeKpJu8tA
+4. https://www.youtube.com/channel/UC-OiZsEK7DXeHBNAUbT8tgg
+
 ## Icons Resources
 https://www.flaticon.com/
 https://icons8.com/
